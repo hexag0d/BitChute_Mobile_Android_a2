@@ -1,0 +1,388 @@
+C:\Users\cgrigg\Desktop\tabWalk\bin\Debug\TabHostWalkthrough.dll
+C:\Users\cgrigg\Desktop\tabWalk\bin\Debug\TabHostWalkthrough.pdb
+C:\Users\cgrigg\Desktop\tabWalk\bin\Debug\com.xamarin.example.tabhostwalkthrough.apk
+C:\Users\cgrigg\Desktop\tabWalk\bin\Debug\com.xamarin.example.tabhostwalkthrough-Signed.apk
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\TabHostWalkthrough.csprojResolveAssemblyReference.cache
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\TabHostWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\TabHostWalkthrough.dll
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\TabHostWalkthrough.pdb
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\android\bin\com.xamarin.example.tabhostwalkthrough.apk
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\values\strings.xml
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\layout\main.xml
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable\ic_tab_my_schedule.xml
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable\ic_tab_sessions.xml
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable\ic_tab_speakers.xml
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable\ic_tab_whats_on.xml
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\R.cs.flag
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\uploadflags.txt
+C:\Users\cgrigg\Desktop\tabWalk\bin\Debug\TabHostWalkthrough.dll.mdb
+C:\Users\cgrigg\Desktop\tabWalk\obj\Debug\android\assets\TabHostWalkthrough.dll.mdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\bin\Debug\TabHostWalkthrough.dll
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\bin\Debug\TabHostWalkthrough.pdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\bin\Debug\com.xamarin.example.tabhostwalkthrough.apk
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\bin\Debug\com.xamarin.example.tabhostwalkthrough-Signed.apk
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\TabHostWalkthrough.csprojResolveAssemblyReference.cache
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\TabHostWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\TabHostWalkthrough.dll
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\TabHostWalkthrough.pdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\android\bin\com.xamarin.example.tabhostwalkthrough.apk
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\values\strings.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\layout\main.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable\ic_tab_my_schedule.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable\ic_tab_sessions.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable\ic_tab_speakers.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable\ic_tab_whats_on.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\R.cs.flag
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\uploadflags.txt
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\bin\Debug\TabHostWalkthrough.dll.mdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compiled\obj\Debug\android\assets\TabHostWalkthrough.dll.mdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\bin\Debug\TabHostWalkthrough.dll
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\bin\Debug\TabHostWalkthrough.pdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\bin\Debug\com.xamarin.example.tabhostwalkthrough.apk
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\bin\Debug\com.xamarin.example.tabhostwalkthrough-Signed.apk
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\TabHostWalkthrough.csprojResolveAssemblyReference.cache
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\TabHostWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\TabHostWalkthrough.dll
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\TabHostWalkthrough.pdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\android\bin\com.xamarin.example.tabhostwalkthrough.apk
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\values\strings.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\layout\main.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable\ic_tab_my_schedule.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable\ic_tab_sessions.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable\ic_tab_speakers.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable\ic_tab_whats_on.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\R.cs.flag
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\uploadflags.txt
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\bin\Debug\TabHostWalkthrough.dll.mdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\android\assets\TabHostWalkthrough.dll.mdb
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\layout\layouttest.xml
+C:\Users\cgrigg\Desktop\tabWalk_working_compilable_current\obj\Debug\res\layout\tabitemlayout.xml
+C:\Users\cgrigg\Desktop\vidz hackup\bin\Debug\TabHostWalkthrough.dll
+C:\Users\cgrigg\Desktop\vidz hackup\bin\Debug\TabHostWalkthrough.pdb
+C:\Users\cgrigg\Desktop\vidz hackup\bin\Debug\com.xamarin.example.tabhostwalkthrough.apk
+C:\Users\cgrigg\Desktop\vidz hackup\bin\Debug\com.xamarin.example.tabhostwalkthrough-Signed.apk
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\TabHostWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\TabHostWalkthrough.dll
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\TabHostWalkthrough.pdb
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\android\bin\com.xamarin.example.tabhostwalkthrough.apk
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\values\strings.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\layout\main.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable\ic_tab_my_schedule.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable\ic_tab_sessions.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable\ic_tab_speakers.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable\ic_tab_whats_on.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\R.cs.flag
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\uploadflags.txt
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\layout\subs.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\layout\whatson.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\layout\mychannel.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\layout\discover.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\layout\settings.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable\ic_tab_settings.xml
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_settings_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-mdpi\ic_tab_settings_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_settings_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-xhdpi\ic_tab_settings_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_settings_selected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\drawable-hdpi\ic_tab_settings_unselected.png
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\res\values\theme.xml
+C:\Users\cgrigg\Desktop\vidz hackup\bin\Debug\TabHostWalkthrough.dll.mdb
+C:\Users\cgrigg\Desktop\vidz hackup\obj\Debug\android\assets\TabHostWalkthrough.dll.mdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\TabHostWalkthrough.dll
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\TabHostWalkthrough.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\com.xamarin.example.tabhostwalkthrough.apk
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\com.xamarin.example.tabhostwalkthrough-Signed.apk
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\TabHostWalkthrough.csproj.CoreCompileInputs.cache
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\TabHostWalkthrough.dll
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\TabHostWalkthrough.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\bin\com.xamarin.example.tabhostwalkthrough.apk
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\layout\subs.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\layout\whatson.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\layout\mychannel.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\layout\discover.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\layout\settings.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\values\strings.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\layout\main.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable\ic_launcher.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable\ic_tab_my_schedule.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable\ic_tab_sessions.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable\ic_tab_speakers.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable\ic_tab_whats_on.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_sessions_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_sessions_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_speakers_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_speakers_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_sessions_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_sessions_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_speakers_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_speakers_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable\ic_tab_settings.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_settings_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-mdpi\ic_tab_settings_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_settings_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-xhdpi\ic_tab_settings_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_settings_selected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\drawable-hdpi\ic_tab_settings_unselected.png
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\res\values\theme.xml
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\R.cs.flag
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\R.txt
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\uploadflags.txt
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\Mono.Android.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\mscorlib.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\System.Core.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\System.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\System.Xml.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\System.ComponentModel.Composition.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\System.Net.Http.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\System.Runtime.Serialization.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\System.ServiceModel.Internals.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\Mono.Security.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\Mono.Android.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\mscorlib.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\System.Core.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\System.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\System.Xml.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\System.Net.Http.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\Mono.Security.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\linksrc\TabHostWalkthrough.dll.mdb
+C:\projectRE\BitChute-Mobile-Android--back_\bin\Debug\TabHostWalkthrough.dll.mdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\TabHostWalkthrough.dll.mdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\Mono.Android.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\Mono.Security.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\mscorlib.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\System.Core.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\System.Net.Http.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\System.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\android\assets\System.Xml.pdb
+C:\projectRE\BitChute-Mobile-Android--back_\obj\Debug\TabHostWalkthrough.csprojAssemblyReference.cache
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\TabHostWalkthrough.dll
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\TabHostWalkthrough.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\com.xamarin.example.tabhostwalkthrough.apk
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\com.xamarin.example.tabhostwalkthrough-Signed.apk
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\TabHostWalkthrough.csproj.CoreCompileInputs.cache
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\TabHostWalkthrough.dll
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\TabHostWalkthrough.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\bin\com.xamarin.example.tabhostwalkthrough.apk
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\layout\subs.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\layout\whatson.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\layout\mychannel.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\layout\discover.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\layout\settings.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\values\strings.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\layout\main.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable\ic_launcher.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable\ic_tab_my_schedule.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable\ic_tab_sessions.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable\ic_tab_speakers.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable\ic_tab_whats_on.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_sessions_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_sessions_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_speakers_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_speakers_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_sessions_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_sessions_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_speakers_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_speakers_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable\ic_tab_settings.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_settings_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-mdpi\ic_tab_settings_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_settings_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-xhdpi\ic_tab_settings_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_settings_selected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\drawable-hdpi\ic_tab_settings_unselected.png
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\res\values\theme.xml
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\R.cs.flag
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\R.txt
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\uploadflags.txt
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\Mono.Android.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\mscorlib.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\System.Core.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\System.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\System.Xml.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\System.ComponentModel.Composition.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\System.Net.Http.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\System.Runtime.Serialization.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\System.ServiceModel.Internals.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\Mono.Security.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\Mono.Android.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\mscorlib.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\System.Core.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\System.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\System.Xml.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\System.Net.Http.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\Mono.Security.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\TabHostWalkthrough.dll.mdb
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\TabHostWalkthrough.dll.mdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\TabHostWalkthrough.dll.mdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\Mono.Android.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\Mono.Security.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\mscorlib.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\System.Core.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\System.Net.Http.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\System.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\android\assets\System.Xml.pdb
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\TabHostWalkthrough.csprojAssemblyReference.cache
+C:\projectRE\BitChute-Mobile-Android--a2\bin\Debug\TabHostWalkthrough.dll
+C:\projectRE\BitChute-Mobile-Android--a2\obj\Debug\linksrc\TabHostWalkthrough.dll.mdb

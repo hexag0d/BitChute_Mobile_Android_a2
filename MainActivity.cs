@@ -13,14 +13,15 @@ soundcloud.com/vybemasterz
 
 twitter @vybeypantelonez
 minds @hexagod
- 
+steemit @vybemasterz
+gab.ai @hexagod
  
  */
 
-namespace com.xamarin.example.tabhostwalkthrough
+namespace com.xamarin.example.BitChute
 {
     using System;
-
+    using System.Threading.Tasks;
     using Android.App;
     using Android.Content;
     using Android.Graphics.Drawables;
@@ -28,11 +29,27 @@ namespace com.xamarin.example.tabhostwalkthrough
     using Android.Widget;
     using Android.Webkit;
 
+    //   using Xamarin.Forms.PlatformConfiguration;
+    //   using Xamarin.Forms.PlatformConfiguration.AndroidSpecific;
+    
+
     [Activity(Label = "@string/app_name", MainLauncher = true, Icon = "@drawable/ic_launcher")]
 #pragma warning disable CS0618 // Type or member is obsolete
     public class MainActivity : TabActivity
 #pragma warning restore CS0618 // Type or member is obsolete
     {
+        
+
+        
+
+        public override void OnBackPressed()
+        {
+            base.OnBackPressed();
+
+            
+        }
+
+
         private void CreateTab(Type activityType, string tag, string label, int drawableId)
         {
             var intent = new Intent(this, activityType);
@@ -53,6 +70,16 @@ namespace com.xamarin.example.tabhostwalkthrough
             //set the view
             SetContentView(Resource.Layout.Main);
 
+            ColorDrawable colorDrawable = new ColorDrawable(Android.Graphics.Color.Green);
+
+            TabHost tabHost = FindViewById<TabHost>(Android.Resource.Id.TabHost);
+
+            tabHost.Setup();
+
+            tabHost.SetBackgroundColor(Android.Graphics.Color.Black);
+
+            ActionBar.Hide();
+
             //specify tabs
             CreateTab(typeof(WhatsOnActivity), "whats_on", "What's On", Resource.Drawable.ic_tab_whats_on);
             CreateTab(typeof(SpeakersActivity), "speakers", "Subs", Resource.Drawable.ic_tab_speakers);
@@ -60,12 +87,14 @@ namespace com.xamarin.example.tabhostwalkthrough
             CreateTab(typeof(MyScheduleActivity), "my_schedule", "My Channel", Resource.Drawable.ic_tab_my_schedule);
             CreateTab(typeof(SettingsActivity), "settings", "Settings", Resource.Drawable.ic_tab_settings);
 
+
         }
     }
     //My Channel
     [Activity]
     public class MyScheduleActivity : Activity
     {
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
 
@@ -82,7 +111,7 @@ namespace com.xamarin.example.tabhostwalkthrough
             //set the webview client
             myChannelWebView.SetWebViewClient(new WebViewClient());
             //load the mychannel url
-            myChannelWebView.LoadUrl("https://www.bitchute.com/channel/mn7OnNbY6pMH/");
+            myChannelWebView.LoadUrl("https://www.bitchute.com/profile/");
             //enable javascript in our webview
             myChannelWebView.Settings.JavaScriptEnabled = true;
             //zoom control on?  This should perhaps be disabled for consistency?
@@ -92,6 +121,12 @@ namespace com.xamarin.example.tabhostwalkthrough
             //scrollbarsdisabled
             // subWebView.ScrollBarStyle = ScrollbarStyles.OutsideOverlay;
             myChannelWebView.ScrollbarFadingEnabled = false;
+
+            
+            /*while (App.HardwareBackPressed().Result == true)
+            {
+                myChannelWebView.GoBack();
+            }*/
         }
     }
 
@@ -107,7 +142,7 @@ namespace com.xamarin.example.tabhostwalkthrough
             SetContentView(Resource.Layout.discover);
 
             //declare webview and tell our code where to find the XAML resource
-            WebView discoverWebView = FindViewById<WebView>(Resource.Id.webViewSubs);
+            WebView discoverWebView = FindViewById<WebView>(Resource.Id.webViewDiscover);
 
             //set the webview client
             discoverWebView.SetWebViewClient(new WebViewClient());
@@ -122,6 +157,8 @@ namespace com.xamarin.example.tabhostwalkthrough
             //scrollbarsdisabled
             // subWebView.ScrollBarStyle = ScrollbarStyles.OutsideOverlay;
             discoverWebView.ScrollbarFadingEnabled = false;
+
+
         }
     }
     //subs
@@ -130,6 +167,8 @@ namespace com.xamarin.example.tabhostwalkthrough
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            bool subWebViewLoaded = false;
+
             base.OnCreate(savedInstanceState);
 
             //set the content view
@@ -151,6 +190,15 @@ namespace com.xamarin.example.tabhostwalkthrough
             //scrollbarsdisabled
            // subWebView.ScrollBarStyle = ScrollbarStyles.OutsideOverlay;
             subWebView.ScrollbarFadingEnabled = false;
+
+            if (subWebViewLoaded == true)
+            {
+                subWebView.LoadUrl("https://www.bitchute.com/subscriptions/");
+                subWebView.Reload();
+            }
+
+            subWebViewLoaded = true;
+
         }
     }
     //what's on
@@ -167,6 +215,8 @@ namespace com.xamarin.example.tabhostwalkthrough
             //declare webview and tell our code where to find the XAML resource
             WebView whatsOnWebView = FindViewById<WebView>(Resource.Id.webViewWhatsOn);
 
+
+            whatsOnWebView.SetBackgroundColor(Android.Graphics.Color.Green);
             //set the webview client
             whatsOnWebView.SetWebViewClient(new WebViewClient());
             //load the 'whats on' url, will need webscript for curated subscribed feed
@@ -195,12 +245,12 @@ namespace com.xamarin.example.tabhostwalkthrough
             SetContentView(Resource.Layout.settings);
 
             //declare webview and tell our code where to find the XAML resource
-            WebView settingsWebView = FindViewById<WebView>(Resource.Id.webViewSubs);
+            WebView settingsWebView = FindViewById<WebView>(Resource.Id.webViewSettings);
 
             //set the webview client
             settingsWebView.SetWebViewClient(new WebViewClient());
             //load the settings url ***this will need to interface with class to determineURL***
-            settingsWebView.LoadUrl("https://www.bitchute.com/profile/VeO8NGIeqJoI/edit/");
+            settingsWebView.LoadUrl("https://www.bitchute.com/profile/<ID>/edit/");
             //enable javascript in our webview
             settingsWebView.Settings.JavaScriptEnabled = true;
             //zoom control on?  This should perhaps be disabled for consistency?
@@ -212,5 +262,6 @@ namespace com.xamarin.example.tabhostwalkthrough
             settingsWebView.ScrollbarFadingEnabled = false;
         }
     }
-    
+
+
 }

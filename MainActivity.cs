@@ -38,18 +38,7 @@ namespace com.xamarin.example.BitChute
     public class MainActivity : TabActivity
 #pragma warning restore CS0618 // Type or member is obsolete
     {
-        
-
-        
-
-        public override void OnBackPressed()
-        {
-            base.OnBackPressed();
-
-            
-        }
-
-
+        //CreateTab classs
         private void CreateTab(Type activityType, string tag, string label, int drawableId)
         {
             var intent = new Intent(this, activityType);
@@ -62,6 +51,7 @@ namespace com.xamarin.example.BitChute
 
             TabHost.AddTab(spec);
         }
+        //OnCreate class
         protected override void OnCreate(Bundle bundle)
         {
             //bundle
@@ -70,14 +60,16 @@ namespace com.xamarin.example.BitChute
             //set the view
             SetContentView(Resource.Layout.Main);
 
-            ColorDrawable colorDrawable = new ColorDrawable(Android.Graphics.Color.Green);
-
+            //declare an instance of tabHost and find the resource
             TabHost tabHost = FindViewById<TabHost>(Android.Resource.Id.TabHost);
 
+            //setup the tabHost
             tabHost.Setup();
 
+            //set the background color of our tabs to black
             tabHost.SetBackgroundColor(Android.Graphics.Color.Black);
 
+            //hide the actionbar
             ActionBar.Hide();
 
             //specify tabs
@@ -89,11 +81,27 @@ namespace com.xamarin.example.BitChute
 
 
         }
+
+
+
     }
+
+
+
     //My Channel
     [Activity]
     public class MyScheduleActivity : Activity
     {
+
+
+        //override the hardware back button event
+        public override void OnBackPressed()
+        {
+            //declare our webview and tell the button where to find it
+            WebView myChannelWebView = FindViewById<WebView>(Resource.Id.webViewMyChannel);
+            //tell webview to goback
+            myChannelWebView.GoBack();
+        }
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -102,8 +110,6 @@ namespace com.xamarin.example.BitChute
 
 
               SetContentView(Resource.Layout.myChannel);
-
-            // https://www.bitchute.com/channel/mn7OnNbY6pMH/
 
             //declare webview and tell our code where to find the XAML resource
             WebView myChannelWebView = FindViewById<WebView>(Resource.Id.webViewMyChannel);
@@ -122,11 +128,6 @@ namespace com.xamarin.example.BitChute
             // subWebView.ScrollBarStyle = ScrollbarStyles.OutsideOverlay;
             myChannelWebView.ScrollbarFadingEnabled = false;
 
-            
-            /*while (App.HardwareBackPressed().Result == true)
-            {
-                myChannelWebView.GoBack();
-            }*/
         }
     }
 
@@ -135,6 +136,15 @@ namespace com.xamarin.example.BitChute
     //define class discover content
     public class SessionsActivity : Activity
     {
+        //override the hardware back button event
+        public override void OnBackPressed()
+        {
+            //declare our webview and tell the button where to find it
+            WebView discoverWebView = FindViewById<WebView>(Resource.Id.webViewDiscover);
+            //tell webview to goback
+            discoverWebView.GoBack();
+        }
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -165,9 +175,18 @@ namespace com.xamarin.example.BitChute
     [Activity]
     public class SpeakersActivity : Activity
     {
+        //override the hardware back button event
+        public override void OnBackPressed()
+        {
+            //declare our webview and tell the button where to find it
+            WebView subWebView = FindViewById<WebView>(Resource.Id.webViewSubs);
+            //tell webview to goback
+            subWebView.GoBack();
+        }
+
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
-            bool subWebViewLoaded = false;
 
             base.OnCreate(savedInstanceState);
 
@@ -191,14 +210,6 @@ namespace com.xamarin.example.BitChute
            // subWebView.ScrollBarStyle = ScrollbarStyles.OutsideOverlay;
             subWebView.ScrollbarFadingEnabled = false;
 
-            if (subWebViewLoaded == true)
-            {
-                subWebView.LoadUrl("https://www.bitchute.com/subscriptions/");
-                subWebView.Reload();
-            }
-
-            subWebViewLoaded = true;
-
         }
     }
     //what's on
@@ -206,6 +217,15 @@ namespace com.xamarin.example.BitChute
     //this class should be an aggregate subscription feed
     public class WhatsOnActivity : Activity
     {
+        //override the hardware back button event
+        public override void OnBackPressed()
+        {
+            //declare our webview and tell the button where to find it
+            WebView whatsOnWebView = FindViewById<WebView>(Resource.Id.webViewWhatsOn);
+            //tell webview to goback
+            whatsOnWebView.GoBack();
+        }
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -236,11 +256,19 @@ namespace com.xamarin.example.BitChute
    [Activity]
     public class SettingsActivity : Activity
     {
+        //override the hardware back button event
+        public override void OnBackPressed()
+        {
+            //declare our webview and tell the button where to find it
+            WebView settingsWebView = FindViewById<WebView>(Resource.Id.webViewSettings);
+            //tell webview to goback
+            settingsWebView.GoBack();
+        }
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
 
             base.OnCreate(savedInstanceState);
-
 
             SetContentView(Resource.Layout.settings);
 
@@ -250,7 +278,7 @@ namespace com.xamarin.example.BitChute
             //set the webview client
             settingsWebView.SetWebViewClient(new WebViewClient());
             //load the settings url ***this will need to interface with class to determineURL***
-            settingsWebView.LoadUrl("https://www.bitchute.com/profile/<ID>/edit/");
+            settingsWebView.LoadUrl("https://www.bitchute.com/settings/");
             //enable javascript in our webview
             settingsWebView.Settings.JavaScriptEnabled = true;
             //zoom control on?  This should perhaps be disabled for consistency?

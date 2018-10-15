@@ -4,7 +4,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="@string/app_name" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/ic_launcher" android:debuggable="true">
-    <activity android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="md5e80cc97888bcacccb6ed5ecfa479800c.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="md5e80cc97888bcacccb6ed5ecfa479800c.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

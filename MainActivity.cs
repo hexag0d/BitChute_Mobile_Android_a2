@@ -33,7 +33,8 @@ namespace com.xamarin.example.BitChute
     //   using Xamarin.Forms.PlatformConfiguration.AndroidSpecific;
     
 
-    [Activity(Label = "@string/app_name", MainLauncher = true, Icon = "@drawable/ic_launcher")]
+    [Activity(Label = "@string/app_name", MainLauncher = true, Icon = "@drawable/ic_launcher", 
+        ConfigurationChanges = Android.Content.PM.ConfigChanges.Orientation | Android.Content.PM.ConfigChanges.ScreenSize)]
 #pragma warning disable CS0618 // Type or member is obsolete
     public class MainActivity : TabActivity
 #pragma warning restore CS0618 // Type or member is obsolete

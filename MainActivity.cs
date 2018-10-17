@@ -28,6 +28,7 @@ namespace com.xamarin.example.BitChute
     using Android.OS;
     using Android.Widget;
     using Android.Webkit;
+    using Android.Views;
 
     //   using Xamarin.Forms.PlatformConfiguration;
     //   using Xamarin.Forms.PlatformConfiguration.AndroidSpecific;
@@ -80,10 +81,7 @@ namespace com.xamarin.example.BitChute
             CreateTab(typeof(MyScheduleActivity), "my_schedule", "My Channel", Resource.Drawable.ic_tab_my_schedule);
             CreateTab(typeof(SettingsActivity), "settings", "Settings", Resource.Drawable.ic_tab_settings);
 
-
         }
-
-
 
     }
 
@@ -109,8 +107,7 @@ namespace com.xamarin.example.BitChute
 
             base.OnCreate(savedInstanceState);
 
-
-              SetContentView(Resource.Layout.myChannel);
+            SetContentView(Resource.Layout.myChannel);
 
             //declare webview and tell our code where to find the XAML resource
             WebView myChannelWebView = FindViewById<WebView>(Resource.Id.webViewMyChannel);
@@ -169,7 +166,6 @@ namespace com.xamarin.example.BitChute
             // subWebView.ScrollBarStyle = ScrollbarStyles.OutsideOverlay;
             discoverWebView.ScrollbarFadingEnabled = false;
 
-
         }
     }
     //subs
@@ -184,7 +180,6 @@ namespace com.xamarin.example.BitChute
             //tell webview to goback
             subWebView.GoBack();
         }
-
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -211,6 +206,9 @@ namespace com.xamarin.example.BitChute
            // subWebView.ScrollBarStyle = ScrollbarStyles.OutsideOverlay;
             subWebView.ScrollbarFadingEnabled = false;
 
+            /*RequestWindowFeature(WindowFeatures.NoTitle);
+
+            Window.SetFlags(WindowManagerFlags.Fullscreen, WindowManagerFlags.Fullscreen);*/
         }
     }
     //what's on

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:installLocation="auto" android:versionName="2" package="com.xamarin.example.BitChute">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:installLocation="auto" android:versionName="2" package="com.xamarin.hexagod.BitChute">
   <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="24" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -15,12 +15,12 @@
     <activity android:name="md5e80cc97888bcacccb6ed5ecfa479800c.SpeakersActivity" />
     <activity android:name="md5e80cc97888bcacccb6ed5ecfa479800c.WhatsOnActivity" />
     <activity android:name="md5e80cc97888bcacccb6ed5ecfa479800c.SettingsActivity" />
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.example.BitChute.mono.MonoRuntimeProvider.__mono_init__" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.hexagod.BitChute.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
-        <category android:name="mono.android.intent.category.SEPPUKU.com.xamarin.example.BitChute" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.xamarin.hexagod.BitChute" />
       </intent-filter>
     </receiver>
   </application>

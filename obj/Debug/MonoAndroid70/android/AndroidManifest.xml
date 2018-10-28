@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:installLocation="auto" android:versionName="2" package="com.xamarin.example.BitChute">
+  <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="24" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="@string/app_name" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/ic_launcher" android:debuggable="true">
+    <service android:name="md5f72a5f7a8653f146ff0f625cb84f58ea.StreamingBackgroundService">
+      <intent-filter>
+        <action android:name="com.xamarin.action.PLAY" />
+        <action android:name="com.xamarin.action.PAUSE" />
+        <action android:name="com.xamarin.action.STOP" />
+      </intent-filter>
+    </service>
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="md5e80cc97888bcacccb6ed5ecfa479800c.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name="md5e80cc97888bcacccb6ed5ecfa479800c.WhatsOnActivity" />
+    <activity android:name="md5496f332fa44951e501dc9bc08193a006.DiscoverActivity" />
+    <activity android:name="md5496f332fa44951e501dc9bc08193a006.MyChannelActivity" />
+    <activity android:name="md5496f332fa44951e501dc9bc08193a006.SettingsActivity" />
+    <activity android:name="md5496f332fa44951e501dc9bc08193a006.SubsActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.example.BitChute.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.xamarin.example.BitChute" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

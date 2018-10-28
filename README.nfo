@@ -59,13 +59,14 @@ Extract and clean the solution, rebuild; it should be compilable out of the box.
 
 Still left to do:
 
--Change Settings tab to link dynamically to the current user instead of Hexagod
+-fix fullscreen in app by hiding tabs when user selects fullscreen
 
--Change the My Channel tab to link dynamically to the current user's channel instead of Hexagod
+-autoplay doesn't work
+
+-audio should stay playing when the app is running in background
 
 -Link "what's on" to aggregate subscription feed instead of BitChute homepage ***https://www.bitchute.com/#listing-subscribed***
 
 -Add splash screen (with login?)
 
--Smooth UI tabs to horizontal orientation
 */

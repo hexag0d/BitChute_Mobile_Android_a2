@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:installLocation="auto" android:versionName="2" package="com.xamarin.example.BitChute">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="@string/BitChute" android:icon="@drawable/ic_launcher" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/ic_launcher" android:label="@string/BitChute" android:name="md5e80cc97888bcacccb6ed5ecfa479800c.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name="md5e80cc97888bcacccb6ed5ecfa479800c.WhatsOnActivity" />
+    <activity android:name="md5496f332fa44951e501dc9bc08193a006.PlaylistActivity" />
+    <activity android:name="md5496f332fa44951e501dc9bc08193a006.MyChannelActivity" />
+    <activity android:name="md5496f332fa44951e501dc9bc08193a006.SettingsActivity" />
+    <activity android:name="md5496f332fa44951e501dc9bc08193a006.SubsActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.example.BitChute.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

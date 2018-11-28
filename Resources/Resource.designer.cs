@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("com.xamarin.example.tabhostwalkthrough.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("com.xamarin.example.BitChute.Resource", IsApplication=true)]
 
-namespace com.xamarin.example.tabhostwalkthrough
+namespace com.xamarin.example.BitChute
 {
 	
 	
@@ -41,22 +41,6 @@ namespace com.xamarin.example.tabhostwalkthrough
 			}
 		}
 		
-		public partial class Color
-		{
-			
-			// aapt resource value: 0x7f050000
-			public const int theme_devicedefault_background = 2131034112;
-			
-			static Color()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Color()
-			{
-			}
-		}
-		
 		public partial class Drawable
 		{
 			
@@ -67,46 +51,16 @@ namespace com.xamarin.example.tabhostwalkthrough
 			public const int ic_tab_my_schedule = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int ic_tab_my_schedule_selected = 2130837506;
+			public const int ic_tab_sessions = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int ic_tab_my_schedule_unselected = 2130837507;
+			public const int ic_tab_settings = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int ic_tab_sessions = 2130837508;
+			public const int ic_tab_speakers = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int ic_tab_sessions_selected = 2130837509;
-			
-			// aapt resource value: 0x7f020006
-			public const int ic_tab_sessions_unselected = 2130837510;
-			
-			// aapt resource value: 0x7f020007
-			public const int ic_tab_settings = 2130837511;
-			
-			// aapt resource value: 0x7f020008
-			public const int ic_tab_settings_selected = 2130837512;
-			
-			// aapt resource value: 0x7f020009
-			public const int ic_tab_settings_unselected = 2130837513;
-			
-			// aapt resource value: 0x7f02000a
-			public const int ic_tab_speakers = 2130837514;
-			
-			// aapt resource value: 0x7f02000b
-			public const int ic_tab_speakers_selected = 2130837515;
-			
-			// aapt resource value: 0x7f02000c
-			public const int ic_tab_speakers_unselected = 2130837516;
-			
-			// aapt resource value: 0x7f02000d
-			public const int ic_tab_whats_on = 2130837517;
-			
-			// aapt resource value: 0x7f02000e
-			public const int ic_tab_whats_on_selected = 2130837518;
-			
-			// aapt resource value: 0x7f02000f
-			public const int ic_tab_whats_on_unselected = 2130837519;
+			public const int ic_tab_whats_on = 2130837509;
 			
 			static Drawable()
 			{
@@ -121,53 +75,92 @@ namespace com.xamarin.example.tabhostwalkthrough
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f070001
-			public const int linearLayout1 = 2131165185;
+			// aapt resource value: 0x7f060001
+			public const int linearLayout1 = 2131099649;
 			
-			// aapt resource value: 0x7f070000
-			public const int scrollView1 = 2131165184;
+			// aapt resource value: 0x7f060000
+			public const int scrollView1 = 2131099648;
 			
-			// aapt resource value: 0x7f070002
-			public const int textView1 = 2131165186;
+			// aapt resource value: 0x7f06000e
+			public const int subTv1 = 2131099662;
 			
-			// aapt resource value: 0x7f070003
-			public const int textView2 = 2131165187;
+			// aapt resource value: 0x7f060017
+			public const int subTv10 = 2131099671;
 			
-			// aapt resource value: 0x7f070004
-			public const int textView3 = 2131165188;
+			// aapt resource value: 0x7f060018
+			public const int subTv11 = 2131099672;
 			
-			// aapt resource value: 0x7f070005
-			public const int textView4 = 2131165189;
+			// aapt resource value: 0x7f060019
+			public const int subTv12 = 2131099673;
 			
-			// aapt resource value: 0x7f070006
-			public const int textView5 = 2131165190;
+			// aapt resource value: 0x7f06001a
+			public const int subTv13 = 2131099674;
 			
-			// aapt resource value: 0x7f070007
-			public const int textView6 = 2131165191;
+			// aapt resource value: 0x7f06000f
+			public const int subTv2 = 2131099663;
 			
-			// aapt resource value: 0x7f070008
-			public const int textView7 = 2131165192;
+			// aapt resource value: 0x7f060010
+			public const int subTv3 = 2131099664;
 			
-			// aapt resource value: 0x7f070009
-			public const int textView8 = 2131165193;
+			// aapt resource value: 0x7f060011
+			public const int subTv4 = 2131099665;
 			
-			// aapt resource value: 0x7f07000b
-			public const int textView9 = 2131165195;
+			// aapt resource value: 0x7f060012
+			public const int subTv5 = 2131099666;
 			
-			// aapt resource value: 0x7f07000a
-			public const int webViewDiscover = 2131165194;
+			// aapt resource value: 0x7f060013
+			public const int subTv6 = 2131099667;
 			
-			// aapt resource value: 0x7f07000c
-			public const int webViewMyChannel = 2131165196;
+			// aapt resource value: 0x7f060014
+			public const int subTv7 = 2131099668;
 			
-			// aapt resource value: 0x7f07000d
-			public const int webViewSettings = 2131165197;
+			// aapt resource value: 0x7f060015
+			public const int subTv8 = 2131099669;
 			
-			// aapt resource value: 0x7f07000e
-			public const int webViewSubs = 2131165198;
+			// aapt resource value: 0x7f060016
+			public const int subTv9 = 2131099670;
 			
-			// aapt resource value: 0x7f07000f
-			public const int webViewWhatsOn = 2131165199;
+			// aapt resource value: 0x7f060002
+			public const int textView1 = 2131099650;
+			
+			// aapt resource value: 0x7f060003
+			public const int textView2 = 2131099651;
+			
+			// aapt resource value: 0x7f060004
+			public const int textView3 = 2131099652;
+			
+			// aapt resource value: 0x7f060005
+			public const int textView4 = 2131099653;
+			
+			// aapt resource value: 0x7f060006
+			public const int textView5 = 2131099654;
+			
+			// aapt resource value: 0x7f060007
+			public const int textView6 = 2131099655;
+			
+			// aapt resource value: 0x7f060008
+			public const int textView7 = 2131099656;
+			
+			// aapt resource value: 0x7f060009
+			public const int textView8 = 2131099657;
+			
+			// aapt resource value: 0x7f06000b
+			public const int textView9 = 2131099659;
+			
+			// aapt resource value: 0x7f06000c
+			public const int webViewMyChannel = 2131099660;
+			
+			// aapt resource value: 0x7f06000a
+			public const int webViewPlaylist = 2131099658;
+			
+			// aapt resource value: 0x7f06000d
+			public const int webViewSettings = 2131099661;
+			
+			// aapt resource value: 0x7f06001b
+			public const int webViewSubs = 2131099675;
+			
+			// aapt resource value: 0x7f06001c
+			public const int webViewWhatsOn = 2131099676;
 			
 			static Id()
 			{
@@ -214,7 +207,7 @@ namespace com.xamarin.example.tabhostwalkthrough
 		{
 			
 			// aapt resource value: 0x7f040000
-			public const int app_name = 2130968576;
+			public const int BitChute = 2130968576;
 			
 			static String()
 			{
@@ -229,8 +222,11 @@ namespace com.xamarin.example.tabhostwalkthrough
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7f060000
-			public const int Theme_Custom = 2131099648;
+			// aapt resource value: 0x7f050001
+			public const int MyActionBar = 2131034113;
+			
+			// aapt resource value: 0x7f050000
+			public const int MyTheme = 2131034112;
 			
 			static Style()
 			{

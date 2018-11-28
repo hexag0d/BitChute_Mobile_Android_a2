@@ -11,105 +11,105 @@
         android:layout_height="fill_parent"
         android:minWidth="25px"
         android:minHeight="25px">
-        <LinearLayout
-            android:orientation="horizontal"
-            android:minWidth="25px"
-            android:minHeight="25px"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/linearLayout1">
-            <TextView
-                android:text="s"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:id="@+id/textView1"
-                android:textColor="#ff33b5e5" />
-            <TextView
-                android:text="u"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#00B3FF"
-                android:id="@+id/textView2" />
-            <TextView
-                android:text="b"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#0095FF"
-                android:id="@+id/textView3" />
-            <TextView
-                android:text="s"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#0059FF"
-                android:id="@+id/textView4" />
-            <TextView
-                android:text="c"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#6200FF"
-                android:id="@+id/textView5" />
-            <TextView
-                android:text="r"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#9000FF"
-                android:id="@+id/textView6" />
-            <TextView
-                android:text="i"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#BB00FF"
-                android:id="@+id/textView7" />
-            <TextView
-                android:text="p"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#E600FF"
-                android:id="@+id/textView8" />
-            <TextView
-                android:text="t"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#BB00FF"
-                android:id="@+id/textView9" />
-            <TextView
-                android:text="i"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#BB00FF"
-                android:id="@+id/textView7" />
-            <TextView
-                android:text="o"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#BB00FF"
-                android:id="@+id/textView7" />
-            <TextView
-                android:text="n"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#9000FF"
-                android:id="@+id/textView6" />
-            <TextView
-                android:text="s"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:textColor="#6200FF"
-                android:id="@+id/textView5" />
-        </LinearLayout>
+		<LinearLayout
+			android:orientation="horizontal"
+			android:minWidth="25px"
+			android:minHeight="25px"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/linearLayout1">
+			<TextView
+				android:text="s"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:id="@+id/subTv1"
+				android:textColor="#ff33b5e5" />
+			<TextView
+				android:text="u"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#00B3FF"
+				android:id="@+id/subTv2" />
+			<TextView
+				android:text="b"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#0095FF"
+				android:id="@+id/subTv3" />
+			<TextView
+				android:text="s"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#0059FF"
+				android:id="@+id/subTv4" />
+			<TextView
+				android:text="c"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#6200FF"
+				android:id="@+id/subTv5" />
+			<TextView
+				android:text="r"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#9000FF"
+				android:id="@+id/subTv6" />
+			<TextView
+				android:text="i"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#BB00FF"
+				android:id="@+id/subTv7" />
+			<TextView
+				android:text="p"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#E600FF"
+				android:id="@+id/subTv8" />
+			<TextView
+				android:text="t"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#BB00FF"
+				android:id="@+id/subTv9" />
+			<TextView
+				android:text="i"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#BB00FF"
+				android:id="@+id/subTv10" />
+			<TextView
+				android:text="o"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#BB00FF"
+				android:id="@+id/subTv11" />
+			<TextView
+				android:text="n"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#9000FF"
+				android:id="@+id/subTv12" />
+			<TextView
+				android:text="s"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:textColor="#6200FF"
+				android:id="@+id/subTv13" />
+		</LinearLayout>
         <android.webkit.WebView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
